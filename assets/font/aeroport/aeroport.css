@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport-Light.eot');
+  src: local('Aeroport Light'), local('Aeroport-Light'),
+      url('Aeroport-Light.woff2') format('woff2'),
+      url('Aeroport-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aeroport Mono';
+  src: url('AeroportMono.eot');
+  src: local('Aeroport Mono'), local('AeroportMono'),
+      url('AeroportMono.woff2') format('woff2'),
+      url('AeroportMono.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport-Bold.eot');
+  src: local('Aeroport Bold'), local('Aeroport-Bold'),
+      url('Aeroport-Bold.woff2') format('woff2'),
+      url('Aeroport-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport-LightItalic.eot');
+  src: local('Aeroport Light Italic'), local('Aeroport-LightItalic'),
+      url('Aeroport-LightItalic.woff2') format('woff2'),
+      url('Aeroport-LightItalic.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport-BoldItalic.eot');
+  src: local('Aeroport Bold Italic'), local('Aeroport-BoldItalic'),
+      url('Aeroport-BoldItalic.woff2') format('woff2'),
+      url('Aeroport-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport-MediumItalic.eot');
+  src: local('Aeroport Medium Italic'), local('Aeroport-MediumItalic'),
+      url('Aeroport-MediumItalic.woff2') format('woff2'),
+      url('Aeroport-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport.eot');
+  src: local('Aeroport'),
+      url('Aeroport.woff2') format('woff2'),
+      url('Aeroport.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport-Italic.eot');
+  src: local('Aeroport Italic'), local('Aeroport-Italic'),
+      url('Aeroport-Italic.woff2') format('woff2'),
+      url('Aeroport-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Aeroport';
+  src: url('Aeroport-Medium.eot');
+  src: local('Aeroport Medium'), local('Aeroport-Medium'),
+      url('Aeroport-Medium.woff2') format('woff2'),
+      url('Aeroport-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
