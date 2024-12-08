@@ -1,0 +1,27 @@
+<?php
+include("_env.php");
+?><title>
+  Аналитический центр
+  при&nbsp;Правительстве
+  Российской&nbsp;Федерации
+</title>
+
+<meta charset="utf-8">
+<!--<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">-->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link href="/assets/css/default.css?<?=constant('HTML_VERSION');?>" rel="stylesheet">
+<link href="/assets/font/GolosText.css" rel="stylesheet">
+<link href="/assets/css/swiper-bundle.min.css" rel="stylesheet">
+
+<!--  -->
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico">
+
+<?php if (! str_ends_with($_SERVER['HTTP_HOST'], '.local')) { ?>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap" rel="stylesheet">
+<?php } ?>
+
+<script src="/assets/js/modernizr-custom.js"></script>
